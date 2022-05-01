@@ -1,0 +1,1 @@
+powershell "pyrcc5 -o C:\Users\AbdouSadou\Documents\PythonDev\github_share\qt5_dashboard\ressources\ressources.py C:\Users\AbdouSadou\Documents\PythonDev\github_share\qt5_dashboard\ressources\ressources.qrc"

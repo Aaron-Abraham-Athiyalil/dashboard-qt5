@@ -1,0 +1,151 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+
+    <file>icons/app_icon.png</file>
+    <file>icons/icon_snake.png</file>
+    <file>icons/icon_tetris.png</file>
+    <file>icons/icon_avatar.png</file>
+
+    <file>buttons/standard/btn_menubar_close.png</file>
+    <file>buttons/standard/btn_menubar_minimize.png</file>
+    <file>buttons/standard/btn_menubar_maximize.png</file>
+    <file>buttons/standard/btn_menubar_maximize_checked.png</file>
+    <file>buttons/standard/btn_menubar_settings.png</file>
+    <file>buttons/standard/btn_menubar_settings_checked.png</file>
+    
+    <file>buttons/dark/btn_settings_change_bckg.png</file>
+    <file>buttons/light/btn_settings_change_bckg.png</file>
+
+    <file>buttons/dark/btn_settings_add_bckg.png</file>
+    <file>buttons/light/btn_settings_add_bckg.png</file>
+
+    <file>buttons/dark/btn_settings_change_font.png</file>
+    <file>buttons/light/btn_settings_change_font.png</file>
+
+    <file>buttons/dark/btn_settings_chat.png</file>
+    <file>buttons/light/btn_settings_chat.png</file>
+
+    <file>buttons/dark/btn_resize.png</file>
+    <file>buttons/light/btn_resize.png</file>
+
+    <file>buttons/dark/btn_toolbar_1.png</file>
+    <file>buttons/dark/btn_toolbar_2.png</file>
+    <file>buttons/dark/btn_toolbar_3.png</file>
+    <file>buttons/dark/btn_toolbar_4.png</file>
+
+    <file>buttons/light/btn_toolbar_1.png</file>
+    <file>buttons/light/btn_toolbar_2.png</file>
+    <file>buttons/light/btn_toolbar_3.png</file>
+    <file>buttons/light/btn_toolbar_4.png</file>
+
+    <file>buttons/dark/btn_tetris.png</file>
+    <file>buttons/dark/btn_snake.png</file>
+    
+    <file>buttons/light/btn_tetris.png</file>
+    <file>buttons/light/btn_snake.png</file>
+
+    <file>buttons/dark/btn_hide_toolbar.png</file>
+    <file>buttons/dark/btn_show_toolbar.png</file>
+    <file>buttons/dark/btn_show_toolbar_hover.png</file>
+    
+    
+    <file>buttons/light/btn_hide_toolbar.png</file>
+    <file>buttons/light/btn_show_toolbar.png</file>
+    <file>buttons/light/btn_show_toolbar_hover.png</file>
+
+    
+    <file>themes/backgrounds/light_bg/light_bg_pic_01.png</file>
+    <file>themes/backgrounds/light_bg/light_bg_pic_02.png</file>
+    <file>themes/backgrounds/light_bg/light_bg_pic_03.png</file>
+    
+    <file>themes/backgrounds/dark_bg/dark_bg_pic_01.png</file>
+    <file>themes/backgrounds/dark_bg/dark_bg_pic_02.png</file>
+    <file>themes/backgrounds/dark_bg/dark_bg_pic_03.png</file>
+
+    <file>themes/light/hmovetoolbar.svg</file>
+    <file>themes/light/vmovetoolbar.svg</file>
+    <file>themes/light/hsepartoolbar.svg</file>
+    <file>themes/light/vsepartoolbars.svg</file>
+    <file>themes/light/stylesheet-branch-end.svg</file>
+    <file>themes/light/stylesheet-branch-end-closed.svg</file>
+    <file>themes/light/stylesheet-branch-end-open.svg</file>
+    <file>themes/light/stylesheet-vline.svg</file>
+    <file>themes/light/stylesheet-branch-more.svg</file>
+    <file>themes/light/branch_closed.svg</file>
+    <file>themes/light/branch_closed-on.svg</file>
+    <file>themes/light/branch_open.svg</file>
+    <file>themes/light/branch_open-on.svg</file>
+    <file>themes/light/down_arrow.svg</file>
+    <file>themes/light/down_arrow_disabled.svg</file>
+    <file>themes/light/down_arrow-hover.svg</file>
+    <file>themes/light/left_arrow.svg</file>
+    <file>themes/light/left_arrow_disabled.svg</file>
+    <file>themes/light/right_arrow.svg</file>
+    <file>themes/light/right_arrow_disabled.svg</file>
+    <file>themes/light/up_arrow.svg</file>
+    <file>themes/light/up_arrow_disabled.svg</file>
+    <file>themes/light/up_arrow-hover.svg</file>
+    <file>themes/light/sizegrip.svg</file>
+    <file>themes/light/transparent.svg</file>
+    <file>themes/light/close.svg</file>
+    <file>themes/light/close-hover.svg</file>
+    <file>themes/light/close-pressed.svg</file>
+    <file>themes/light/undock.svg</file>
+    <file>themes/light/undock-hover.svg</file>
+    <file>themes/light/checkbox_checked-hover.svg</file>
+    <file>themes/light/checkbox_checked.svg</file>
+    <file>themes/light/checkbox_checked_disabled.svg</file>
+    <file>themes/light/checkbox_indeterminate.svg</file>
+    <file>themes/light/checkbox_indeterminate-hover.svg</file>
+    <file>themes/light/checkbox_indeterminate_disabled.svg</file>
+    <file>themes/light/checkbox_unchecked-hover.svg</file>
+    <file>themes/light/checkbox_unchecked_disabled.svg</file>
+    <file>themes/light/radio_checked-hover.svg</file>
+    <file>themes/light/radio_checked.svg</file>
+    <file>themes/light/radio_checked_disabled.svg</file>
+    <file>themes/light/radio_unchecked-hover.svg</file>
+    <file>themes/light/radio_unchecked_disabled.svg</file>
+
+    <file>themes/dark/hmovetoolbar.svg</file>
+    <file>themes/dark/vmovetoolbar.svg</file>
+    <file>themes/dark/hsepartoolbar.svg</file>
+    <file>themes/dark/vsepartoolbars.svg</file>
+    <file>themes/dark/stylesheet-branch-end.svg</file>
+    <file>themes/dark/stylesheet-branch-end-closed.svg</file>
+    <file>themes/dark/stylesheet-branch-end-open.svg</file>
+    <file>themes/dark/stylesheet-vline.svg</file>
+    <file>themes/dark/stylesheet-branch-more.svg</file>
+    <file>themes/dark/branch_closed.svg</file>
+    <file>themes/dark/branch_closed-on.svg</file>
+    <file>themes/dark/branch_open.svg</file>
+    <file>themes/dark/branch_open-on.svg</file>
+    <file>themes/dark/down_arrow.svg</file>
+    <file>themes/dark/down_arrow_disabled.svg</file>
+    <file>themes/dark/down_arrow-hover.svg</file>
+    <file>themes/dark/left_arrow.svg</file>
+    <file>themes/dark/left_arrow_disabled.svg</file>
+    <file>themes/dark/right_arrow.svg</file>
+    <file>themes/dark/right_arrow_disabled.svg</file>
+    <file>themes/dark/up_arrow.svg</file>
+    <file>themes/dark/up_arrow_disabled.svg</file>
+    <file>themes/dark/up_arrow-hover.svg</file>
+    <file>themes/dark/sizegrip.svg</file>
+    <file>themes/dark/transparent.svg</file>
+    <file>themes/dark/close.svg</file>
+    <file>themes/dark/close-hover.svg</file>
+    <file>themes/dark/close-pressed.svg</file>
+    <file>themes/dark/undock.svg</file>
+    <file>themes/dark/undock-hover.svg</file>
+    <file>themes/dark/checkbox_checked.svg</file>
+    <file>themes/dark/checkbox_checked_disabled.svg</file>
+    <file>themes/dark/checkbox_indeterminate.svg</file>
+    <file>themes/dark/checkbox_indeterminate_disabled.svg</file>
+    <file>themes/dark/checkbox_unchecked.svg</file>
+    <file>themes/dark/checkbox_unchecked_disabled.svg</file>
+    <file>themes/dark/radio_checked.svg</file>
+    <file>themes/dark/radio_checked_disabled.svg</file>
+    <file>themes/dark/radio_unchecked.svg</file>
+    <file>themes/dark/radio_unchecked_disabled.svg</file>
+    
+</qresource>
+</RCC>
